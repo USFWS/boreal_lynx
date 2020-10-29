@@ -34,7 +34,7 @@ library(dplyr)
 source("code/functions/global.R")
 
 # Define UI for application that draws a histogram
-ui <- navbarPage("CollarViewer v.0.1.0-alpha", id="nav",
+ui <- navbarPage("Collar-Viewer v.0.2.0-alpha", id="nav",
 
                  # Tab 1: Load data
                  tabPanel("Load data",
