@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/mccrea-cobb/collar-viewer.png)](https://travis-ci.com/mccrea-cobb/collar-viewer)
+[![Build Status](https://travis-ci.com/USFWS/collar-viewer.png)](https://travis-ci.com/USFWS/collar-viewer)
 
 # USFWS Disclaimer
 The United States Fish and Wildlife Service (FWS) GitHub project code is provided on 
