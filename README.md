@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.com/USFWS/collar-viewer.png)](https://travis-ci.com/USFWS/collar-viewer)
-
 # USFWS Disclaimer
 The United States Fish and Wildlife Service (FWS) GitHub project code is provided on 
 an "as is" basis and the user assumes responsibility for its use. FWS has relinquished 
